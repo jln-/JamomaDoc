@@ -1,0 +1,56 @@
+j + tab -> Jamoma
+
+www + tab -> "{var(page name)}":http://jamoma.org/{var(page name)}.html page 
+
+arj + tab -> "Alexander Refsum Jensenius":http://www.arj.no/ 
+jln + tab -> Julien Rabin 
+np + tab -> Nils Peters 
+pb + tab -> "Pascal Baltazar":http://zkrx.org/ 
+tap + tab -> "Timothy Place":http://www.74objects.com/
+tl + tab -> "Trond Lossius":http://www.trondlossius.no/ 
+to + tab -> Théo De La Hogue 
+
+Max shortcuts:
+jc + tab -> ""jcom.osc-route @attribute any":components/jcom.osc-route.html 
+jm + tab -> "jmod.{var}":modules/{var}.html 
+maxref + tab -> "{print}":http://cycling74.com/docs/max5/refpages/max-ref/{print}.html 
+mspref + tab -> "{cycle}~":http://cycling74.com/docs/max5/refpages/msp-ref/{cycle}~.html
+jitref + tab -> "jit.{matrix}":http://cycling74.com/docs/max5/refpages/msp-ref/jit.{matrix}.html 
+
+
+Picture:
+lightbox + tab -> !(lightbox)http://site.com/image(Title)!
+thumb + tab -> !(lightbox-thb)http://site.com/image(Title)!
+
+img + tab -> !http://site.com/image(Title)!
+
+Other:
+info + tab -> p(info). $1
+
+Note that bc. can be use instead, since, the css is the same so far.
+
+++ + tab -> p(seealso). $1
+
+To be used (most likely) at the bottom of pages to specify links to other tutorial pages.
+
+tbl + tab ->
+
+|_.Header item |_.Header 2d item |_.Header 3d item |
+|  |  |  |
+
+Note that you can tab multiple times to jump from one field to another.
+
+i + tab -> integer
+d + tab -> decimal
+a + tab -> array
+s + tab -> string
+b + tab -> boolean
+? + tab -> generic
+mess + tab -> message
+M + tab -> module
+attr + tab -> attribute
+arg + tab -> argument
+o + tab -> object
+p + tab -> "jcom.parameter":components/jcom.parameter.html 
+m + tab -> "jcom.message":components/jcom.message.html
+r + tab -> "jcom.return":components/jcom.return.html 
