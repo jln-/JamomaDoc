@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Tutorial - Sound FX modules
+category: doc
 ---
 
 h2. Tutorial - Sound FX modules
