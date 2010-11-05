@@ -1,0 +1,9 @@
+---
+layout: base
+title: JamomaDoc auto publish test
+---
+
+Here you can download the patch used for this tutorial.
+
+"tuto html":Tutorial_-_Sound_FX_modules.html"
+"tuto textile":Tutorial_-_Sound_FX_modules.textile"
