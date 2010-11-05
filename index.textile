@@ -13,3 +13,7 @@ site cat: {{site.categories.CATEGORY}}
 url: {{page.url}}
 
 page cat: {{post.categories}}
+
+{% for post in site.categories.doc %}
+  <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
