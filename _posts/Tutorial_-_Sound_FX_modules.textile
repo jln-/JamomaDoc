@@ -1,3 +1,8 @@
+---
+layout: base
+title: Tutorial - Sound FX modules
+---
+
 h2. Tutorial - Sound FX modules
 
 In this tutorial we will add an audio effect module offering a simple stereo echo with feedback, filtering and limiting. At the same time we will start looking into some of the features that are common to many or all Jamoma modules. But we will start of with some useful shortcuts.
